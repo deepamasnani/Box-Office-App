@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+
 export const SearchInput = styled.input`
   display: block;
   font-family: 'Roboto', sans-serif;
